@@ -13,4 +13,6 @@ Za izmeniti eventualno:</br>
 4. Zaobići captachu, kao što to radi orginalna aplikacija
 5. Dodati tač gestu za zatvaranje glavnog menija kao u orginalnoj aplikaciji što je.
 6. Ubrzati učitvanja poruka, kao što to radi orginalna aplikacija
+7. Dodati da može se slikati kamerom pri dodavanju slika
+8. Notifikacije možda ne rade, nije probano
 </pre>
