@@ -3,7 +3,7 @@
 KupujemProdajem android aplikacija koja ne traži updejt svakih 5min za razliku od orginalne aplikacije.</br>
 Ova aplikacija je običan WebView koji očitava KupujemProdajem veb sajt i delom dodaje dodatan CSS radi izmene izgleda.<br>
 
-**Download:** <a href="https://github.com/banekondic1996/kplite/releases/">Link</a>
+**Download:** <a href="https://github.com/banekondic1996/kplite/releases/download/V1.0.0/KPLite.apk">Link</a>
 
 Za izmeniti eventualno:</br>
 <pre>
