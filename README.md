@@ -1,7 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/23e4a4f6-43fe-44cf-8065-7b0c6291a2f8" width="48px">KupujemProdajem Lite
 
 KupujemProdajem android aplikacija koja ne traži updejt svakih 5min za razliku od orginalne aplikacije.</br>
-Ova aplikacija je običan WebView koji očitava KupujemProdajem veb sajt i delom dodaje dodatan CSS radi izemene izgleda.
+Ova aplikacija je običan WebView koji očitava KupujemProdajem veb sajt i delom dodaje dodatan CSS radi izmene izgleda.
 
 Za izmeniti eventualno:</br>
 <pre>
