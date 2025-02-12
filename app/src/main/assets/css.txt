@@ -1,0 +1,160 @@
+.MobileMainLayout_content__vXoHd{
+    text-align: -webkit-center;
+}
+.MobileMainLayout_container__3KSoi section{
+border:none;
+border-radius: 20px;
+/*box-shadow: 0px 0px 7px 0px #8080809e*/;
+width: 97%;
+}
+.AdItem_adHolder__vbsTZ{
+border-radius: 20px;
+}
+.FooterNavigation_navHolder__cdxA1{
+background: #ffffffff;
+*/background: #ffffffc7;
+backdrop-filter: blur(1px);*/
+}
+.FooterNavigation_navHolder__cdxA1 a{
+background: none !important;
+border: none;
+filter: grayscale(1) contrast(4);
+}
+/*.MyKpMenu_sidebarCover__V4eEw{
+background: none;
+backdrop-filter: blur(1px);
+}
+.MyKpMenu_animatedSidebar__PPBxX{
+background: #ffffffc7;
+backdrop-filter: blur(1px);
+}
+.MyKpMenu_stickySidebarHeader__FgZOi MyKpMenu_logged__GOmwC{
+backdrop-filter: blur(3px);
+background:none;
+}*/
+.KpUserDisplayContainer_userContainer__6HD3O,.MyKpMenu_stickySidebarHeader__FgZOi{
+backdrop-filter: blur(3px);
+background:none !important;
+}
+.CategoryHeadline_box__twy_Y, .CategoryHeadline_scrollContainer__grjbg {
+    width: 100% !important;
+    border-radius: 0px !important;
+}
+.img_ad{
+border-radius:10px;
+}
+.AdViewInfoStats_infoStatHolder__GFY2f{
+justify-content: space-between;
+}
+div[class^="AdViewAdditionalData"] {
+ border-radius: 20px;
+    width: 97%;
+    justify-self:center;
+}
+div[class^="AdViewUserSummary_userInfo__U7CwQ"] {
+ border-radius: 20px;
+    width: 97%;
+    justify-self:center;
+}
+section[class^="AdViewUserSummary_box__9kYrB"] {
+ border-radius: 20px;
+    width: 97% !important;
+    justify-self:center;
+}
+section[class^="AdViewInfo_holder__QfAgY"] {
+ border-radius: 20px !important;
+    width: 97% !important;
+    justify-self:center;
+}
+
+section[class^="AdView"] {
+border-radius: 20px;
+width: 95%;
+justify-self:center;
+}
+.AdViewInfo_holder__QfAgY{
+margin: .8rem !important;
+border-radius: 20px !important;
+width: 94%;
+justify-self:center;
+}
+.AdViewInfo_actionsHolder{
+width: auto !important;
+}
+.AdViewGroupButton_adViewGroup__6zB_e{
+    border-radius: 20px;
+    width: 95% !important;
+    justify-self: center;
+
+}
+.AdViewButtons_box__8Jo__{
+    border-radius: 20px !important;
+    width: 95%;
+    justify-self: center;
+
+}
+@media (max-width: 767px) {
+    .Button_base__G3HTK.Button_big__vkHxv, .Button_base__G3HTK.Button_medium___BGcM {
+        font-size: 1.4rem;
+    }
+}
+.MenuItem_item__j1RZ3{
+width: 97% !important;
+border-radius: 20px;
+margin: 4px;
+justify-self: center;
+}
+.AdViewUserSummary_box__9kYrB{
+/*padding:none;*/
+}
+.AdPagination_pageNavigation__YhdjF{
+width: 95%;
+border-radius: 20px !important;
+justify-self: center;
+}
+.Box_box__CCDqC .AdPagination_pageNavigation__YhdjF{
+border-radius: 20px !important;
+width: 94%;
+justify-self: center;
+}
+.AdViewGallery_imageGallery__h16jj{
+margin-top:10px;
+}
+.AdItem_adOuterHolder__FbwPj:Active, .AdItem_adOuterHolder__FbwPj:Hover {
+scale: 0.96;
+}
+.ReviewItem_reviewHolder__BBZf7{
+border-radius: 20px !important;
+width: 94%;
+justify-self: center;
+}
+.AdViewInfoBox_infoBox__jPkG_,.AdViewReviewsButton_adViewReviews__RyHPU{
+border-radius: 20px !important;
+width: 94%;
+justify-self: center;
+}
+.StepperCircle_isActive__euRa0 {
+background-color: #e0e6ec !important;
+}
+.Header_kpBorder__LSxcE:after {
+    height: 4px !important;
+}
+.MenuItem_item__j1RZ3 {
+    border: 1px solid var(--kp-color-border-default) !important;
+}
+.Link_link__2iGTE,.AdItem_name__Knlo6,.AdItem_imageHolder__m4scx img{
+cursor: none !important;
+user-select: none;
+-webkit-user-drag: none;
+app-region: no-drag;
+}
+.Link_link__2iGTE:focus{
+text-decoration: none;
+}
+.FooterNavigation_navHolder__cdxA1{
+}
+:root {
+      --kp-color-fill-positive: #15b612;
+      --kp-color-content-positive: #12920f;
+}
+

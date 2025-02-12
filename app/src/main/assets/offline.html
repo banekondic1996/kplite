@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Viewer</title>
+    <style>
+        body {
+        margin:0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+        width: auto;
+        justify-content: center;
+        }
+        .offlineContainer{
+        padding:20px;
+        background: #d9d9d9;
+        justify-items: center;
+        border-radius:20px;
+        width:60%;
+        box-shadow: #00000017 0px 0px 20px 20px;
+        }
+        .connectButton{
+        margin-top:10px;
+        padding:20px;
+        border:none;
+        border-radius:10px;
+        }
+    </style>
+</head>
+<body>
+<script>
+    function dewIt() {
+    // Check if the specific site is available
+    fetch('https://www.kupujemprodajem.com', { method: 'HEAD' })
+        .then(() => {
+            // Redirect to the specific site when the internet connection is restored
+            window.location.href = 'https://www.kupujemprodajem.com';
+        })
+        .catch(() => {
+            // Retry after a delay if the site is not reachable
+            setTimeout(() => window.dispatchEvent(new Event('online')), 5000);
+        });
+}
+</script>
+<img style="width:50%;height:auto;margin-bottom:10px;" src="kp_lite_logo.png">
+<div class="offlineContainer">
+<h3 style="color:darkred">Nemate pristup internetu!</h3>
+<p>Proverite vašu internet konekciju</p>
+</div>
+</body>
+</html>
